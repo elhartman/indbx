@@ -2,8 +2,7 @@
 create array of elements with a single HTML identifier
 
 activate with the following structure
-
-#### bx0y0w0h0
+### bx0y0w0h0
 	
 * bx0 - horizontal amount of elements
 * y0 - vertical amount of elements
