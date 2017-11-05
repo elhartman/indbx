@@ -1,0 +1,17 @@
+.indbx{
+	position: relative;
+	display: inline-block;
+	vertical-align:top;
+}
+.indbx1 {
+	background-color:#333;
+	margin:1px;
+}
+.indbx0 {
+	background-color: #777;
+	margin:6px;
+	border-radius:4px;
+}
+#bxEle0 {
+	color:#000;
+}
