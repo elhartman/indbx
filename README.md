@@ -1,5 +1,5 @@
 # indbx
-create array of elements with dynamic HTML ID
+create array of elements with a single dynamic HTML id
 
 activate with the following structure
 ### bx0y0w0h0
